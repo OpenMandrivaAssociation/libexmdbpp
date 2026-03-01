@@ -12,6 +12,7 @@ License:	GPL
 Group:		System/Libraries
 BuildRequires:	cmake
 BuildRequires:	pkgconfig(pybind11)
+BuildRequires:	pkgconfig(python3)
 BuildSystem:	cmake
 
 %description
